@@ -427,3 +427,7 @@ Small Device Styles
   }
 
 }
+
+table {
+    margin: auto;
+}
