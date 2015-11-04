@@ -54,7 +54,7 @@ body {
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  line-height: 2.0 !important;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -428,12 +428,11 @@ Small Device Styles
 
 }
 
-table {
-    margin: auto;
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-
 .center {
     margin: 0 auto;
+}
+
+nav {
+  width: 20%;
+  margin: 0 auto;
 }
